@@ -1,6 +1,6 @@
 # Web-Scraping-IMDb
 
-# Web Scraping in Pyrhon using Beautiful Soup and Request
+# Web Scraping in Python using Beautiful Soup and Request
 from the IMDb website: <https://www.imdb.com/chart/top>
 
 This simple file in python shows how to use Beautiful Soup and Request
